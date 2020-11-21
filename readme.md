@@ -1,1 +1,1 @@
-This is my Chocolater Recipe
+This is my Chocolate Recipe
